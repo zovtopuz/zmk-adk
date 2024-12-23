@@ -1,0 +1,2 @@
+config SHIELD_ADK
+    def_bool $(shields_list_contains, adk)
